@@ -16,6 +16,7 @@ Menu com opções numeradas
     "id":"311F87C0-F938-4FF3-991A-7C5AEF7771A5",
     "to":"1042221589186385@messenger.gw.msging.net",
     "type":"application/vnd.lime.select+json",
+    "scope":"immediate",
     "content":{
         "text":"Escolha uma opção",
         "options":[
